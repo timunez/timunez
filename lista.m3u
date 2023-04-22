@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv1.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36" group-title="Sports",Sport TV 1 (720p) [Not 24/7]
+
+
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CANAL1
 http://rv.therevenge.co:80/live/242424/242424/81815.m3u8?checkedby:dailyfreeiptvlist.com
 
